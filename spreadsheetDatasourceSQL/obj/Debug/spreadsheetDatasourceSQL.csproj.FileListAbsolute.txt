@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2015\Projects\spreadsheetDatasourceSQL\spreadsheetDatasourceSQL\bin\Debug\spreadsheetDatasourceSQL.exe.config
+c:\users\student\documents\visual studio 2015\Projects\spreadsheetDatasourceSQL\spreadsheetDatasourceSQL\obj\Debug\spreadsheetDatasourceSQL.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\spreadsheetDatasourceSQL\spreadsheetDatasourceSQL\bin\Debug\spreadsheetDatasourceSQL.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\spreadsheetDatasourceSQL\spreadsheetDatasourceSQL\bin\Debug\spreadsheetDatasourceSQL.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\spreadsheetDatasourceSQL\spreadsheetDatasourceSQL\obj\Debug\spreadsheetDatasourceSQL.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\spreadsheetDatasourceSQL\spreadsheetDatasourceSQL\obj\Debug\spreadsheetDatasourceSQL.pdb
